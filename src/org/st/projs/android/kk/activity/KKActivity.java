@@ -256,12 +256,6 @@ public class KKActivity extends Activity {
 				}
 				// 終了ダイアログを表示
 				mEndAlertDialog.create().show();
-				mEndAlertDialog.create().show();
-				mEndAlertDialog.create().show();
-				
-				
-				mEndAlertDialog.create().show();
-				//test komento
 				return true;
 			default:
 			}
